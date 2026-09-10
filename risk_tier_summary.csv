@@ -1,0 +1,4 @@
+risk_tier,total_loans,total_defaults,default_rate_pct
+"Low Risk",40076,17930,44.74
+"High Risk",50368,11578,22.99
+"Medium Risk",58226,7131,12.25

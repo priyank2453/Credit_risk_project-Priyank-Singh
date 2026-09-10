@@ -1,0 +1,6 @@
+loan_purpose,total_loans,total_defaults,default_rate_pct,risk_rank
+p2,3274,1083,33.08,1
+NULL,134,35,26.12,2
+p1,34529,8935,25.88,3
+p3,55934,13996,25.02,4
+p4,54799,12590,22.97,5
